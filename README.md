@@ -147,8 +147,3 @@ and evaluate the model, and save the model artifact.
 - Add automated tests and model-quality gates.
 - Monitor prediction errors and data drift.
 
-## 12. Submission Evidence
-
-Include screenshots of the repository structure, successful
-GitHub Actions workflow, deployed Streamlit application, and
-model evaluation results.
