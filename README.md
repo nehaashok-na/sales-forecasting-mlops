@@ -137,7 +137,7 @@ and evaluate the model, and save the model artifact.
 
 - **GitHub repository:** https://github.com/nehaashok-na/sales-forecasting-mlops
 - **Streamlit application:** Add your deployed Streamlit URL
-- **Workflow run:** Add a successful GitHub Actions run URL
+- 
 
 ## 11. Future Improvements
 
